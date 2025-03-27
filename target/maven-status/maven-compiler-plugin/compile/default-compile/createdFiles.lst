@@ -1,0 +1,13 @@
+DeepApp\Services\UserDetailsServiceIMPL.class
+DeepApp\Entity\User.class
+DeepApp\Repository\UserRepository.class
+DeepApp\Controller\AdminController.class
+DeepApp\Controller\PublicController.class
+DeepApp\Controller\UserController.class
+DeepApp\Services\UserService.class
+DeepApp\Services\JournalEntryService.class
+DeepApp\Entity\JournalEntry.class
+DeepApp\Repository\JournalEntryRepository.class
+DeepApp\Configuration\SpringSecurity.class
+DeepApp\JournalApplication.class
+DeepApp\Controller\JournalEntryController.class

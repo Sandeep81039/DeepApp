@@ -1,0 +1,6 @@
+projectKey=net.engineeringdigest:journalApp
+serverUrl=http://localhost:9000
+serverVersion=7.9.6.41879
+dashboardUrl=http://localhost:9000/dashboard?id=net.engineeringdigest%3AjournalApp
+ceTaskId=AZXQ3m0X1eRfhsUpCv46
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZXQ3m0X1eRfhsUpCv46
